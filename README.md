@@ -1,0 +1,2 @@
+# ToolDeleteDuplications
+useless
